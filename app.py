@@ -1,3 +1,12 @@
+import os
+import streamlit as st
+
+# Read GEMINI_API_KEY from Streamlit Secrets if present (for Cloud)
+if "GEMINI_API_KEY" in st.secrets:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+
+
+
 import tempfile
 try:
     from PyPDF2 import PdfReader
