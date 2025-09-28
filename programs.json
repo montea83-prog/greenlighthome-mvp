@@ -1,0 +1,30 @@
+[
+  {
+    "state": "PA",
+    "name": "Philadelphia First-Time Homebuyer Grant",
+    "summary": "Up to $10,000 for eligible first-time buyers purchasing within Philadelphia city limits. Income and home price limits apply.",
+    "url": "https://www.phila.gov/",
+    "notes": "Requires homeownership counseling; minimum borrower contribution may apply."
+  },
+  {
+    "state": "PA",
+    "name": "Keystone Home Loan (PHFA)",
+    "summary": "Fixed-rate mortgages for eligible buyers; can be paired with down-payment assistance.",
+    "url": "https://www.phfa.org/",
+    "notes": "Income and purchase price limits vary by county; counseling may be required."
+  },
+  {
+    "state": "NJ",
+    "name": "NJHMFA Down Payment Assistance Program",
+    "summary": "Interest-free, forgivable DPA loan up to a set amount for qualified buyers.",
+    "url": "https://www.njhousing.gov/",
+    "notes": "Must use an NJHMFA participating lender; income and location limits apply."
+  },
+  {
+    "state": "NJ",
+    "name": "Homeward Bound Mortgage",
+    "summary": "Affordable 30-year fixed-rate mortgage for first-time buyers; options for DPA.",
+    "url": "https://www.njhousing.gov/",
+    "notes": "Eligibility varies; check credit and income thresholds."
+  }
+]

@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+google-genai
+PyPDF2
+reportlab

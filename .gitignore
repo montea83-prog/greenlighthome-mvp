@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtual env
+.venv/
+
+# Local artifacts
+leads.csv
+
+# Streamlit cache
+.streamlit/
